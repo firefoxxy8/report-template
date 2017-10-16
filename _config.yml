@@ -9,7 +9,10 @@ report_url: https://google.com
 
 # GA and GitHub data
 
-repo: https://github.com/davidewarren/report-template/body
+repo: https://github.com/davidewarren/report-template
+org_name: davidewarren
+repo_name: report-template
+branch: master
 
 uswds_path: assets/vendor/uswds
 
